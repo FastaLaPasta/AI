@@ -18,8 +18,8 @@ This project, developed as part of the 42 school curriculum, features an AI agen
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/yourrepo.git
-    cd yourrepo/Learn2Slither
+    git clone https://github.com/FastaLaPasta/Learn2Slith.git
+    cd Learn2Slith
     ```
 
 2. **Install Dependencies:**
