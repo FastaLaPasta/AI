@@ -1,2 +1,2 @@
 # AI
-All AI project Done by me
+Some AI project I've done.
