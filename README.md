@@ -1,6 +1,6 @@
 # AI Projects Portfolio
 
-Welcome to my AI Projects Portfolio repository! This repository gathers several projects developed as part of the 42 school curriculum, each demonstrating different techniques in machine learning and artificial intelligence.
+Welcome to my AI Projects Portfolio repository! This repository gathers several projects developed by myself, each demonstrating different techniques in machine learning and artificial intelligence.
 
 ## Projects
 
